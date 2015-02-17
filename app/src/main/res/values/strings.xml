@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WikiaApp</string>
+    <string name="go">Go!</string>
+    <string name="hub">"Hub: "</string>
+    <string name="url">"Url: "</string>
+    <string name="desc">"Description: "</string>
+    <string name="stats">Stats</string>
+    <string name="edits">"Edits: "</string>
+    <string name="articles">"Articles: "</string>
+    <string name="pages">"Pages: "</string>
+    <string name="users">"Users: "</string>
+    <string name="active_users">"Active users: "</string>
+    <string name="images">"Images: "</string>
+    <string name="videos">"Videos: "</string>
+    <string name="admins">"Admins: "</string>
+    <string name="wam_score">WAM score</string>
+
+</resources>

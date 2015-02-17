@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application themes. -->
+    <style name="theme.default" parent="Theme.AppCompat.Light" />
+    <style name="theme.notitle" parent="Theme.AppCompat.Light.NoActionBar" />
+    <style name="theme.dialog" parent="Theme.AppCompat.Dialog" />
+
+</resources>

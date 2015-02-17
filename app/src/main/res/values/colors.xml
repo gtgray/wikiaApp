@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="clr_transparent">#00000000</color>
+    <color name="clr_black_full">#ff000000</color>
+    <color name="clr_white_full">#ffffffff</color>
+
+
+</resources>
